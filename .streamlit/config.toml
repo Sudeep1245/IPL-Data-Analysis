@@ -1,11 +1,7 @@
-[theme]
-
-primaryColor = "#ed2ae6" 
+["theme"]
+primaryColor = "#ed2ae6"
 backgroundColor = "#0962a1"
 secondaryBackgroundColor = "#e0e0e0"
 textColor = "#fcfbf9"
 font = "sans serif"
-
-# primaryColor is used changing color of widget
-
-
+"html(body)" = "some value"  
